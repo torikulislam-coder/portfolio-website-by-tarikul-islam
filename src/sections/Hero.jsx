@@ -132,7 +132,7 @@ export const Hero = () => {
               />
               <div className="relative glass rounded-3xl p-2 glow-border">
                 <img
-                  src="/profile-photo.png"
+                  src="https://fbecomsolutionit.genzluxuryshop.com/wp-content/uploads/2026/10/FB-Ecom-Digital-Growth-Agency.webp"
                   alt="Torikul Islam"
                   className="w-full aspect-[4/5] object-cover rounded-2xl"
                 />
